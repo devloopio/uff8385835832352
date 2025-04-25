@@ -1,0 +1,8 @@
+{
+  "endpoints": {
+    "payment": {
+      "APIV2": "https://limepay1.xyz/payment/api/APIV2.php",
+      "APIV3": "https://limepay1.xyz/payment/api/APIV3.php"
+    }
+  }
+}
